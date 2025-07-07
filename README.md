@@ -56,23 +56,6 @@ This project implements a Telegram bot for the **HODLToken** ecosystem, powered 
 - You can ask questions related to the HODL ecosystem (e.g., "\$HODL tokenomics", "How do BNB rewards work?", "What are NFTs in HODL?").
 - The bot uses **Retrieval-Augmented Generation (RAG)** to enhance answers by retrieving relevant context from ChromaDB and generating accurate responses using the MCP model.
 
-## Development
-
-To add new features or fix bugs:
-
-1. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-
-2. Make changes and test locally.
-
-3. Push your changes:
-   ```bash
-   git push origin feature/your-feature
-   ```
-
-4. Open a pull request for review.
 
 ## License
 
